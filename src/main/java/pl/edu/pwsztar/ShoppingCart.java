@@ -2,7 +2,6 @@ package pl.edu.pwsztar;
 
 import java.util.List;
 
-//TODO: Podczas implementacji prosze pamietac o zasadzie first
 public class ShoppingCart implements ShoppingCartOperation {
 
     public boolean addProducts(String productName, int price, int quantity) {
